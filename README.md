@@ -63,5 +63,6 @@ Pelo Vscode utilizar a função:</br>
 
 ##
 
-<h4>Ponto de melhoria</h4>
+<h4>Pontos de melhoria</h4>
+CSS dos itens no carrinho.</br>
 Desenvolver mais a lógica do botão "Esvaziar carrinho" para limpar o total do preço também.
