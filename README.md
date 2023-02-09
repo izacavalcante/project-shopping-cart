@@ -16,7 +16,6 @@ script.js
 
 <h4>Tecnologias utilizadas</h4>
 JavaScript</br>
-Lógica de programação</br>
 HTML</br>
 Jest
 
